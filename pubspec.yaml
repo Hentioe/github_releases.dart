@@ -1,0 +1,12 @@
+name: github_releases
+description: Github's releases API
+# version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+# dependencies:
+
+dev_dependencies:
+  pedantic: ^1.8.0
