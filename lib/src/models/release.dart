@@ -1,5 +1,3 @@
-import 'package:github_releases/src/models/release_asset.dart';
-
 import '../models.dart';
 
 part 'release.g.dart';
